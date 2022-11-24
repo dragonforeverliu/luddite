@@ -1,4 +1,4 @@
-module github.com/SpirentOrion/luddite/v3
+module github.com/dragonforeverliu/luddite/v3
 
 go 1.18
 
